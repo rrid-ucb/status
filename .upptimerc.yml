@@ -16,9 +16,8 @@ sites:
     url: https://rrid-ucb.org/api/health
 
 status-website:
-  # Custom domain (optional DNS CNAME → rrid-ucb.github.io). Until DNS is cut over,
-  # Pages serves at https://rrid-ucb.github.io/status/
-  # cname: status.rrid-ucb.org  # enable after DNS CNAME → rrid-ucb.github.io
+  # DNS: Cloud DNS CNAME status → rrid-ucb.github.io (zone rrid-ucb-org)
+  cname: status.rrid-ucb.org
   logoUrl: https://rrid-ucb.org/favicon.ico
   name: RR\ID Status
   introTitle: "**RR\\ID** service status"
