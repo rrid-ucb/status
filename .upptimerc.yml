@@ -1,0 +1,40 @@
+# RR\ID public status page — Upptime
+# Repo: https://github.com/rrid-ucb/status
+owner: rrid-ucb
+repo: status
+
+sites:
+  - name: Staging
+    url: https://staging.rrid-ucb.org
+  - name: Dev
+    url: https://dev.rrid-ucb.org
+  - name: Admin
+    url: https://admin.rrid-ucb.org/admin
+  - name: Production
+    url: https://rrid-ucb.org
+  - name: API Health
+    url: https://rrid-ucb.org/api/health
+
+status-website:
+  # Custom domain (optional DNS CNAME → rrid-ucb.github.io). Until DNS is cut over,
+  # Pages serves at https://rrid-ucb.github.io/status/
+  cname: status.rrid-ucb.org
+  logoUrl: https://rrid-ucb.org/favicon.ico
+  name: RR\ID Status
+  introTitle: "**RR\\ID** service status"
+  introMessage: Public uptime for RR\\ID staging and production endpoints. Internal pipeline heartbeats stay on the Admin System Status board.
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/rrid-ucb/status
+    - title: Report an issue
+      href: https://github.com/rrid-ucb/rrid-helpdesk/issues/new/choose
+
+# Create GitHub Issues when a check fails
+assignees: []
+commitMessages:
+  readmeContent: "update README [skip ci] [upptime]"
+  summaryJson: "update data [skip ci] [upptime]"
+  statusJson: "update graphs [skip ci] [upptime]"
+  homepageSummary: "update homepage [skip ci] [upptime]"
