@@ -47,7 +47,8 @@ jobs:
       - uses: peaceiris/actions-gh-pages@v4
         name: GitHub Pages Deploy
         with:
-          github_token: ${{ secrets.GH_PAT || github.token }}
+          # Org disables GITHUB_TOKEN write; use PAT via personal_token (not github_token).
+          personal_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
           user_name: "Upptime Bot"
