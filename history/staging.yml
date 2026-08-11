@@ -1,7 +1,7 @@
 url: https://staging.rrid-ucb.org
-status: up
-code: 200
-responseTime: 5140
-lastUpdated: 2026-08-11T20:20:21.789Z
+status: down
+code: 429
+responseTime: 89
+lastUpdated: 2026-08-11T21:08:19.631Z
 startTime: 2026-08-10T19:48:27.379Z
 generator: Upptime <https://github.com/upptime/upptime>
