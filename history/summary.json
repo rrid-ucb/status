@@ -4,18 +4,20 @@
     "url": "https://staging.rrid-ucb.org",
     "icon": "https://icons.duckduckgo.com/ip3/staging.rrid-ucb.org.ico",
     "slug": "staging",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 250,
-    "timeWeek": 250,
-    "timeMonth": 250,
-    "timeYear": 250,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 223,
+    "timeDay": 223,
+    "timeWeek": 223,
+    "timeMonth": 223,
+    "timeYear": 223,
+    "dailyMinutesDown": {
+      "2026-08-11": 0
+    }
   },
   {
     "name": "Dev",
@@ -77,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rrid-ucb.org.ico",
     "slug": "api-health",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 89,
     "timeDay": 89,
     "timeWeek": 89,
     "timeMonth": 89,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2026-08-11": 41,
+      "2026-08-11": 1176,
       "2026-08-10": 251
     }
   }
