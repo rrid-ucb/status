@@ -13,7 +13,7 @@ sites:
   - name: Production
     url: https://rrid-ucb.org
   - name: API Health
-    url: https://rrid-ucb.org/api/health
+    url: https://staging.rrid-ucb.org/api/health
 
 status-website:
   # DNS: Cloud DNS CNAME status → rrid-ucb.github.io (zone rrid-ucb-org)
