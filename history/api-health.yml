@@ -1,7 +1,7 @@
-url: https://rrid-ucb.org/api/health
-status: down
-code: 404
-responseTime: 102
-lastUpdated: 2026-08-11T23:42:07.576Z
+url: https://staging.rrid-ucb.org/api/health
+status: up
+code: 200
+responseTime: 81
+lastUpdated: 2026-08-11T23:57:20.646Z
 startTime: 2026-08-10T19:48:29.647Z
 generator: Upptime <https://github.com/upptime/upptime>
