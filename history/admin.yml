@@ -1,7 +1,7 @@
 url: https://admin.rrid-ucb.org/admin
-status: down
-code: 500
-responseTime: 54
-lastUpdated: 2026-09-30T09:55:30.568Z
+status: up
+code: 200
+responseTime: 327
+lastUpdated: 2026-09-30T10:04:09.377Z
 startTime: 2026-08-10T19:48:28.553Z
 generator: Upptime <https://github.com/upptime/upptime>
