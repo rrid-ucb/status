@@ -42,18 +42,20 @@
     "url": "https://admin.rrid-ucb.org/admin",
     "icon": "https://icons.duckduckgo.com/ip3/admin.rrid-ucb.org.ico",
     "slug": "admin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 179,
-    "timeWeek": 217,
-    "timeMonth": 260,
-    "timeYear": 249,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 251,
+    "timeDay": 228,
+    "timeWeek": 229,
+    "timeMonth": 262,
+    "timeYear": 251,
+    "dailyMinutesDown": {
+      "2026-09-30": 9
+    }
   },
   {
     "name": "Production",
